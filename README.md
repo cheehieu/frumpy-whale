@@ -4,6 +4,9 @@ This project was inspired by Intuitive Machine's TRaVeller (TRV) spacecraft, and
 
 It pulls in real-time telemetry data from the TRV, and integrates it with the Android [Sky Map](https://code.google.com/p/stardroid/) open source project. 
 
+* Google Sky Maps
+* Stellarium running on virtual server, takes in user's location (long, lat) as input, returns 180-degree FOV image of night sky with TRV super imposed corresponding to real-time location
+
 # Data Params
 *  UPP_ecef_longitude
 *  UPP_ecef_gd_latitude
